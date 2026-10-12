@@ -1,1 +1,22 @@
-36-checkmate-patterns-A4-large-boards.pdf, ref: https://chessfox.com/checkmate-patterns/
+# chess_cheatsheet
+
+## Blindspot: chess training from your own games
+
+**Open it: https://yichaoou.github.io/chess_cheatsheet/**
+
+Blindspot reads your chess.com games (or a PGN file), grades every move with Stockfish 10 in your browser, finds the patterns behind your mistakes and turns them into short puzzles and lessons. It has a daily "Today's 5", a kid mode, lessons from Capablanca's *Chess Fundamentals*, Lichess puzzles, a chess glossary and rating benchmarks.
+
+Everything runs on your device: games are fetched from chess.com's public API by your browser, the engine runs in your browser, and progress is saved in your browser only. Nothing is uploaded.
+
+## Checkmate patterns cheat sheet
+
+[36-checkmate-patterns-A4-large-boards.pdf](36-checkmate-patterns-A4-large-boards.pdf), ref: https://chessfox.com/checkmate-patterns/
+
+## Credits and licences
+
+- Engine: Stockfish 10 (GPL v3), compiled for the browser by stockfish.js 10.0.2 (Nathan Rugg). Source code: https://github.com/nmrugg/stockfish.js (npm package `stockfish@10.0.2`) and https://github.com/official-stockfish/Stockfish. Licence text: [COPYING-stockfish.txt](COPYING-stockfish.txt).
+- Lessons: J. R. Capablanca, *Chess Fundamentals* (1921), public domain (Project Gutenberg eBook #33870).
+- Puzzles, puzzle themes and benchmark games: Lichess database and lila (CC0 1.0). Opening names: lichess-org/chess-openings (CC0).
+- Chess glossary: Wikipedia, "Glossary of chess", Wikipedia contributors (CC BY-SA 4.0); definitions shortened.
+- Pieces: "Spatial" set by Maurizio Monge (MIT), from Lichess.
+- Not affiliated with or endorsed by Chess.com or Lichess.
