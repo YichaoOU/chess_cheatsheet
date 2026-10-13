@@ -4,7 +4,7 @@
 
 **Open it: https://yichaoou.github.io/chess_cheatsheet/**
 
-Blindspot reads your chess.com games (or a PGN file), grades every move with Stockfish 10 in your browser, finds the patterns behind your mistakes and turns them into short puzzles and lessons. It has a daily "Today's 5", a kid mode, lessons from Capablanca's *Chess Fundamentals*, Lichess puzzles, a chess glossary and rating benchmarks.
+Blindspot reads your chess.com games (or a PGN file), grades every move with Stockfish 10 in your browser, finds the patterns behind your mistakes and turns them into short puzzles and lessons. Your costliest moves are matched to the named pattern behind them, its lesson and Lichess puzzles with the same pattern; your openings are matched to the well-known traps on the lines you play (checked with Stockfish: practise avoiding them or punishing them) and to Lichess puzzles from real games in the same opening. It has a daily "Today's 5", a kid mode, lessons from Capablanca's *Chess Fundamentals*, a chess glossary and rating benchmarks.
 
 Everything runs on your device: games are fetched from chess.com's public API by your browser, the engine runs in your browser, and progress is saved in your browser only. Nothing is uploaded.
 
